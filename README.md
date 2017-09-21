@@ -1,1 +1,3 @@
-Second iteration of clue scroll generator will slightly better css and javascript.
+Clue Generator 2.
+
+[Old first attempt.](https://github.com/Yonkai/Clue-Gen-WIP)
